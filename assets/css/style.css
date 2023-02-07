@@ -18,10 +18,7 @@ footer {
     color: white;
     text-align: center;
 }
-/* .dart (text-center) {
-    text-align: flex;
-    justify-content: center;
-} */
+
 .dart {
     display: block;
     margin-left: auto;
