@@ -1,0 +1,20 @@
+#img1 {
+    width: 15% !important;
+    height: 10% !important;
+    border-radius: 5%;
+    
+}
+header {
+    background-color: rgb(65, 65, 177);
+   
+}
+header h1 {
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color:  rgb(65, 65, 177);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
